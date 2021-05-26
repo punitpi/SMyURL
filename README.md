@@ -1,2 +1,2 @@
-# smyURL
+# SMyURL
 Shorten My URL
